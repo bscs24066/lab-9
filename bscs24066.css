@@ -9,3 +9,11 @@
     margin: 10px;
     padding: 5px;
 }
+
+.normal-para {
+    color: green;
+}
+
+#fav-para {
+    color: rgb(255, 10, 5);
+}
